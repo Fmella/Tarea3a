@@ -1,0 +1,10 @@
+{
+  "height" : 2,
+  "width" : 3,
+  "lenght" : 3,
+  "window_loss" : 2,
+  "heater_a" : 10,
+  "heater_b" : 10,
+  "ambient_temperature" : 1,
+  "filename" : "solution_2.npy"
+}
